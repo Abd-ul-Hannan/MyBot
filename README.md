@@ -158,7 +158,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 - Google Cloud Multi-Agents Hackathon
 - Python Community
-
+- Powered by Google GenAI APIs via Google Cloud.
 ---
 
 Made with ❤️ by Abd ul Hannan
